@@ -9,7 +9,7 @@ ha_category:
 ha_release: 0.104
 ha_iot_class: Local Polling
 ha_codeowners:
-  - '@asantaga'
+  - '@Angelo_Santagata'
 ---
 
 The `wiser` integration is the main integration to set up and integrate all supported Drayton Wiser devices. Once configured with the minimum required details it will detect and add all Drayton Wiser devices into Home Assistant, including support for multi-zone heating.
