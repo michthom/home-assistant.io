@@ -1,12 +1,12 @@
 ---
-title: Drayton Wiser
+title: Wiser
 description: Instructions on how to integrate Drayton Wiser devices with Home Assistant.
 logo: wiser.png
 ha_category:
   - Climate
   - Sensor
   - Switch
-ha_release: 0.104
+ha_release: 0.105
 ha_iot_class: Local Polling
 ha_codeowners:
   - '@Angelo_Santagata'
